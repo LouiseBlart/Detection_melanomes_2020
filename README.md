@@ -1,5 +1,6 @@
-# Projet-Python-2A : reconnaissance de mélanomes
-Louise Blart & Jeanne Astier (2020-2021)
+# Reconnaissance de mélanomes
+Louise Blart & Jeanne Astier
+Projet de Programmation 2A-ENSAE (2020-2021)
 
 Ce projet a été réalisé dans le cadre du cours "Python pour Data Scientist" de deuxième année de l'ENSAE. Son objectif est d'aider au diagnostic de mélanomes : nous voulons détecter, parmi un ensemble grains de beauté, lesquels sont malins et présentent un danger pour le patient. 
 
